@@ -1,4 +1,4 @@
-🎥 RGB Channel Swap Video Processor
+#RGB Channel Swap Video Processor
 
 This project demonstrates a frame-level video transformation using OpenCV in Python. It processes a video by reading each frame, converting the BGR color space (used internally by OpenCV) to the RGB color space, and writes the transformed video to disk. A Gradio interface powers the interactive front end.
 
